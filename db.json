@@ -1,0 +1,44 @@
+{
+  "quizes": [
+    {
+      "question": "What is the capital of Australia?",
+      "option1": "Sydney",
+      "option2": "Melbourne",
+      "option3": "Canberra",
+      "option4": "Brisbane",
+      "answer": "opt3"
+    },
+    {
+      "question": "In which year did the first moon landing occur?",
+      "option1": "1965",
+      "option2": "1969",
+      "option3": "1975",
+      "option4": "1980",
+      "answer": "opt2"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "option1": "Seoul",
+      "option2": "Beijing",
+      "option3": "Tokyo",
+      "option4": "Bangkok",
+      "answer": "opt3"
+    },
+    {
+      "question": "Name the largest planet in our solar system.",
+      "option1": "Mars",
+      "option2": "Earth",
+      "option3": "Jupiter",
+      "option4": "Venus",
+      "answer": "opt3"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "option1": "Charles Dickens",
+      "option2": "William Shakespeare",
+      "option3": "Jane Austen",
+      "option4": "Mark Twain",
+      "answer": "opt2"
+    }
+  ]
+}

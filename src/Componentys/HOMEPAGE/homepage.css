@@ -1,0 +1,48 @@
+.home-out {
+    background-image: url('E:\01ReactPROJECTS\0react\src\Componentys\HOMEPAGE\pexels-lumn-399160.jpg');
+    /* background-size:contain; */
+   
+    background-repeat: none;
+}
+.keyb{
+    margin-top: 4rem;
+    max-width: 25rem;
+}
+.welcome {
+    z-index: 1; /* Ensure text is below the image */
+    padding-top: 7%;
+    margin-left: 10%;
+    
+}
+.welcomemsg{
+    margin-bottom: 5px;
+    font-size: 4rem;
+    
+}
+
+.imageman {
+    margin-top: 25px;
+    z-index: 1; /* Ensure text is below the image */
+    max-height: 100%;
+    max-width: 22.7%;
+    margin-right: 8%;
+    animation-name: example; 
+    position: relative;
+  animation-name: example;
+  animation-duration: 4s; /* Apply the animation */
+  animation-fill-mode: forwards;
+}
+
+
+@keyframes example {
+    from {left: -900px;}
+    to {left: 50px;}
+  }
+
+.welcome-content {
+    display: flex;
+    
+}
+.submitbt{
+    width: 40%;
+}
