@@ -5,6 +5,22 @@
     font-size: 50px;
 
 }
+.opt1-opt3
+{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+    
+    
+}
+.opt2-opt4
+{
+    margin-top: 3px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    
+}
 .quizz{
     /* border :2px solid black; */
     padding: 12px;
@@ -17,21 +33,20 @@
 }
 .question{
     font-size: 40px;
+    text-align: center;
 }
 .option{
+    
     display: flex;
-    flex-direction: column;
-    max-width: max-content;
-    align-items: left;
-    justify-content: left;
-    text-align: left;
+    align-items: end;
+    justify-content: space-evenly;
 
 }
 body {
     margin: auto;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     overflow: auto;
-    background: linear-gradient(315deg, rgb(227, 146, 222) 3%, rgb(130, 191, 251) 38%, rgb(132, 248, 240) 68%, rgb(126, 170, 246) 98%);
+    background: linear-gradient(315deg, rgb(236, 167, 232) 3%, rgb(220, 148, 227) 38%, rgb(255, 134, 249) 68%, rgb(126, 170, 246) 98%);
     animation: gradient 15s ease infinite;
     background-size: 400% 400%;
     background-attachment: fixed;

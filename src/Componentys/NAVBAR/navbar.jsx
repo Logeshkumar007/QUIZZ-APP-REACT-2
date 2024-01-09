@@ -6,13 +6,12 @@ const Navbar = () => {
         <div className='outer'>
             
             <ul className='items1'>
-                <li className='item'>RESUME</li>
+                <li className='item'></li>
             </ul>
             <ul className='items2'>
                 <li className='item'>Home</li>
-                <li className='item'>About Me</li>
-                <li className='item'>Education</li>
-                <li className='item'>Certification</li>
+                <li className='item'>LeaderBorad</li>
+                <li className='item'>Feedback</li>
                 <li className='item'>contact</li>
             </ul>
         </div>

@@ -40,5 +40,58 @@
       "option4": "Mark Twain",
       "answer": "opt2"
     }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "email": "logesh07cbe@gmail.com",
+      "password": "mskl",
+      "name": "Logesh",
+      "phn": "8610528048"
+    },
+    {
+      "id": 2,
+      "email": "nithish@gmail.com",
+      "password": "nithish",
+      "name": "Nithish",
+      "phn": "8610528048"
+    },
+    {
+      "id": 3,
+      "email": "rajadurai@gmail.com",
+      "password": "rajadurai",
+      "name": "Durai",
+      "phn": "8610528048"
+    },
+    {
+      "id": 4,
+      "email": "DannySherin@gmail.com",
+      "password": "danny",
+      "name": "Danny",
+      "phn": "8610528048"
+    },
+    
+    {
+      "name": "ajay",
+      "email": "aj@gmail.com",
+      "password": "aj",
+      "phn": "123456789",
+      "id": 6
+    },
+    {
+      "name": "akash",
+      "email": "ak@gmail.com",
+      "password": "ak",
+      "phn": "123456789",
+      "id": 7
+    }
+    ,
+    {
+      "name": "akash",
+      "email": "",
+      "password": "",
+      "phn": "123456789",
+      "id": 8
+    }
   ]
 }
